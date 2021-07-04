@@ -4,3 +4,22 @@ body{
 h2{
     color: orangered;
 }
+section{
+    
+    display: flex;
+}
+.half-width{
+    width: 60%;
+}
+.half-width img{
+    width: 70%;
+}
+.link-button{
+    text-decoration: solid;
+    background-image: linear-gradient(orange, red);
+    background-color: rgb(250, 4, 4);
+    color: white;
+    font: 700;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
