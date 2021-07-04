@@ -40,7 +40,7 @@ label.logo{
 
 a.activate-hover,a:hover{
     border: 1px solid white;
-    transform: .5s;
+    transform: .2s;
     
 
 }
@@ -75,7 +75,7 @@ h5{
     padding: 2%;
 }
 .half-width img{
-    width: 70%;
+    width: 80%;
     border-radius: 5%;
     
 }
@@ -87,4 +87,7 @@ h5{
     font: 700;
     padding: 5px 20px;
     border-radius: 5px;
+}
+h6{
+    color: rgb(60, 60, 241);
 }
