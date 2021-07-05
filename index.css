@@ -48,8 +48,8 @@ a.activate-hover,a:hover{
 h2{
     color: orangered;
 }
-section{
-    padding: 2%;
+.flexible{
+    padding: 0%;
     padding-right: 0%;
     line-height: 80px;
     display: flex;
@@ -75,6 +75,7 @@ h5{
 .half-width{
     width: 60%;
     padding: 2%;
+  
 }
 .half-width img{
     width: 80%;
@@ -83,7 +84,7 @@ h5{
 }
 .link-button{
     text-decoration: white;
-    background-image: linear-gradient(orange, red);
+    background-image: linear-gradient(rgb(27, 9, 9), rgb(70, 1, 1));
     background-color: rgb(46, 172, 221);
     color: white;
     font: 700;
@@ -97,3 +98,16 @@ h6{
     line-height: 0px;
 
  }
+ .orange-color{
+     color: rgb(243, 0, 113);
+ }
+ .song{
+     background-image:  url(image/jaxvmmd4fwp01.jpg);
+     background-size: 800px 200px;
+    background-repeat: no-repeat;
+    width: 1000px;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 20px;
+    border-radius: 5%;
+}
