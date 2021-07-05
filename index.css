@@ -62,13 +62,15 @@ h1{
 span{
     color: red;
     font-size: 40px;
+
 }
+
 p{
     color: whitesmoke;
     line-height: 25px;
 }
 h5{
-    color: rgb(253, 253, 253);
+    color: rgb(255, 255, 255);
 }
 .half-width{
     width: 60%;
@@ -82,12 +84,16 @@ h5{
 .link-button{
     text-decoration: white;
     background-image: linear-gradient(orange, red);
-    background-color: rgb(49, 4, 250);
+    background-color: rgb(46, 172, 221);
     color: white;
     font: 700;
     padding: 5px 20px;
     border-radius: 5px;
 }
 h6{
-    color: rgb(60, 60, 241);
+    color: rgb(0, 255, 242);
 }
+ .join{
+    line-height: 0px;
+
+ }
