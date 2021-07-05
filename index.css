@@ -102,12 +102,16 @@ h6{
      color: rgb(243, 0, 113);
  }
  .song{
-     background-image:  url(image/jaxvmmd4fwp01.jpg);
-     background-size: 800px 200px;
+    background-image:  url(image/jaxvmmd4fwp01.jpg);
+    background-size: 800px 300px;
     background-repeat: no-repeat;
     width: 1000px;
     margin-left: 40px;
     margin-right: 40px;
-    padding: 20px;
+    padding: 50px;
     border-radius: 5%;
+}
+p{
+    color: white;
+    line-height: 35px;
 }
